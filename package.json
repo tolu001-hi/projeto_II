@@ -19,9 +19,17 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
-    "@types/node": "^25.9.1",
+    "@types/node": "^25.9.4",
     "nodemon": "^3.1.14",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolu001-hi/projeto_II.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tolu001-hi/projeto_II/issues"
+  },
+  "homepage": "https://github.com/tolu001-hi/projeto_II#readme"
 }
