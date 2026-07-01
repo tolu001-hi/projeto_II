@@ -8,7 +8,7 @@ MVC (model / repository / service / controller) e rotas centralizadas em
 ## Pré-requisitos
 
 - Node.js 18+
-- MySQL Server 8+ rodando localmente (ou acessível via rede)
+- MySQL Server 8+
 
 ## Configuração
 
